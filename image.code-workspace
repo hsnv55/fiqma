@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../MobileProject/image"
+		},
+		{
+			"path": "../MobileProject/.bundle"
+		},
+		{
+			"path": "../MobileProject/.git"
+		},
+		{
+			"path": "../MobileProject/__tests__"
+		},
+		{
+			"path": "../MobileProject/android"
+		}
+	],
+	"settings": {}
+}
